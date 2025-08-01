@@ -4,7 +4,9 @@
 
 
 👋 <H1>Hi, I'm Jitendra Namdev<H1/>
-🚀 Aspiring DevOps Engineer | Cloud & Automation Enthusiast | AWS | Docker | Terraform | CI/CD | Linux
+
+
+<p>🚀 Aspiring DevOps Engineer | Cloud & Automation Enthusiast | AWS | Docker | Terraform | CI/CD | Linux
 
 I’m a recent postgraduate (MCA) stepping into the world of DevOps and Cloud Engineering. My focus is on building scalable infrastructure, automating deployments, and applying Infrastructure as Code (IaC) practices to solve real-world challenges.
 
@@ -55,5 +57,5 @@ I share my learnings, DevOps journey, and tutorials here:
 
 ✉️ Email: your email here
 
-⭐ Always curious, always learning — building my DevOps journey one project at a time.
+⭐ Always curious, always learning — building my DevOps journey one project at a time<p/>
 
