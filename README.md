@@ -3,7 +3,7 @@
 
 
 
-👋 <H1>Hi, I'm Jitendra Namdev<H1/>
+👋 <H3>Hi, I'm Jitendra Namdev<H3/>
 
 
 <p>🚀 Aspiring DevOps Engineer | Cloud & Automation Enthusiast | AWS | Docker | Terraform | CI/CD | Linux
