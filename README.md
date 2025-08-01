@@ -1,3 +1,18 @@
+<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/76cfd1b1-eef4-4003-9cd8-2c6f8c90095a" />
+
+[Uploading image.png…]()
+
+
+
+
+
+
+
+
+
+
+
+
 👋 Hi, I'm Jitendra Namdev
 🚀 Aspiring DevOps Engineer | Cloud & Automation Enthusiast | AWS | Docker | Terraform | CI/CD | Linux
 
