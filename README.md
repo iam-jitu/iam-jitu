@@ -1,19 +1,9 @@
 <img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/76cfd1b1-eef4-4003-9cd8-2c6f8c90095a" />
 
-[Uploading image.png…]()
 
 
 
-
-
-
-
-
-
-
-
-
-👋 Hi, I'm Jitendra Namdev
+👋 <H1>Hi, I'm Jitendra Namdev<H1/>
 🚀 Aspiring DevOps Engineer | Cloud & Automation Enthusiast | AWS | Docker | Terraform | CI/CD | Linux
 
 I’m a recent postgraduate (MCA) stepping into the world of DevOps and Cloud Engineering. My focus is on building scalable infrastructure, automating deployments, and applying Infrastructure as Code (IaC) practices to solve real-world challenges.
