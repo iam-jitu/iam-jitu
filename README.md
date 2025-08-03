@@ -4,7 +4,7 @@
 
 
 
-👋 <H5>Hi, I'm Jitendra Namdev<H5/>
+👋 Hi, I'm Jitendra Namdev
 
 
 <p>🚀 Aspiring DevOps Engineer | Cloud & Automation Enthusiast | AWS | Docker | Terraform | CI/CD | Linux
